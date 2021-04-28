@@ -11,18 +11,18 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Nyeri](https://github.com/ItsMurumba/tech-hubs#nyeri)
 
 # Eldoret
-* [Dlab Hub](https://ihub.co.ke/): 6th Floor Senteu Plaza, Galana/Lenana Road
+* [EldoHub](https://www.eldohub.co.ke/): Kiptagich Plaza 6th floor
 
 
 # Kisumu
-* [LakeHub](https://ihub.co.ke/): 6th Floor Senteu Plaza, Galana/Lenana Road
+* [LakeHub](https://lakehub.co.ke/): Okore Rd, Kisumu
 
 # Machakos
 * [Ubunifu](http://www.ubunifuhubs.net/)
 
 
 # Mombasa
-* [Swahili Pot](https://ihub.co.ke/): 6th Floor Senteu Plaza, Galana/Lenana Road
+* [Swahili Pot](https://swahilipothub.co.ke/): Swahili Cultural Center
 
 
 
@@ -37,6 +37,6 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 
 # Nyeri
-* [Mt Kenya Hub](https://ihub.co.ke/): 6th Floor Senteu Plaza, Galana/Lenana Road
-* [DeHub](https://ihub.co.ke/): 6th Floor Senteu Plaza, Galana/Lenana Road
+* [Mt Kenya Hub](https://mtkenyahub.com/ea/): Milestone Building, Nothern Bypass Nairobi
+* [DeHub](https://dehub.dkut.ac.ke/): Dedan Kimathi University, Nyeri
 
