@@ -27,12 +27,12 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 
 # Nairobi
-* [iHub](https://ihub.co.ke/): 6th Floor Senteu Plaza, Galana/Lenana Road
-* [NaiLab](https://nailab.co/): 4th Floor, Bishop Magua Centre, Nairobi
-* [Nairobi Garage Karen](https://nairobigarage.com/office-space-in-karen/): Cove Court Watermark Business Park, Nairobi
-* [Nairobi Garage Kilimani](https://nairobigarage.com/office-space-in-kilimani/): Pinetree Plaza, Nairobi
-* [Nairobi Garage Westlands](https://nairobigarage.com/office-in-westlands/): The Mirage Towers, Nairobi
-* [Nairobi Garage Spring Valley](https://nairobigarage.com/office-space-in-spring-valley/): 19 General Mathenge Rd, Nairobi
+* [iHub](https://ihub.co.ke/): +254 798 985 410 6th Floor Senteu Plaza, Galana/Lenana Road
+* [NaiLab](https://nailab.co/):  +254 790 492 467 4th Floor, Bishop Magua Centre, Nairobi
+* [Nairobi Garage Karen](https://nairobigarage.com/office-space-in-karen/):  +254 755 556 955 Cove Court Watermark Business Park, Nairobi
+* [Nairobi Garage Kilimani](https://nairobigarage.com/office-space-in-kilimani/): +254 790 556 955 Pinetree Plaza, Nairobi
+* [Nairobi Garage Westlands](https://nairobigarage.com/office-in-westlands/): +254 708 556 955 The Mirage Towers, Nairobi
+* [Nairobi Garage Spring Valley](https://nairobigarage.com/office-space-in-spring-valley/): +254 708 556 955 19 General Mathenge Rd, Nairobi
 
 
 
