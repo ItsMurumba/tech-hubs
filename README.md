@@ -11,18 +11,19 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Nyeri](https://github.com/ItsMurumba/tech-hubs#nyeri)
 
 # Eldoret
-* [EldoHub](https://www.eldohub.co.ke/): Kiptagich Plaza 6th floor
+* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 
 # Kisumu
-* [LakeHub](https://lakehub.co.ke/): Okore Rd, Kisumu
+* [LakeHub](https://lakehub.co.ke/): +254 774 440 004 Okore Rd, Kisumu
 
 # Machakos
-* [Ubunifu](http://www.ubunifuhubs.net/)
+* [Ubunifu](http://www.ubunifuhubs.net/) +254 732 258 569 Machakos Makueni Road, Machakos, 90100
+
 
 
 # Mombasa
-* [Swahili Pot](https://swahilipothub.co.ke/): Swahili Cultural Center
+* [Swahili Pot](https://swahilipothub.co.ke/): +254 760 001 111 Swahili Cultural Center
 
 
 
