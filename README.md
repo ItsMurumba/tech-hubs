@@ -10,6 +10,8 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Nairobi](https://github.com/ItsMurumba/tech-hubs#nairobi)
 * [Nyeri](https://github.com/ItsMurumba/tech-hubs#nyeri)
 
+# Bungoma
+
 # Eldoret
 * [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
