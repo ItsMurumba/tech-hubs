@@ -40,6 +40,6 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 
 # Nyeri
-* [Mt Kenya Hub](https://mtkenyahub.com/ea/): Milestone Building, Nothern Bypass Nairobi
-* [DeHub](https://dehub.dkut.ac.ke/): Dedan Kimathi University, Nyeri
+* [Mt Kenya Hub](https://mtkenyahub.com/ea/): +254 726 857 785 Milestone Building, Nothern Bypass Nairobi
+* [DeHub](https://dehub.dkut.ac.ke/): +254 728 794 954 Dedan Kimathi University, Nyeri
 
