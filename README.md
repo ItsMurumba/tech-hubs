@@ -3,11 +3,13 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 # Quick Links
 
+* [Bungoma](https://github.com/ItsMurumba/tech-hubs#bungoma)
 * [Eldoret](https://github.com/ItsMurumba/tech-hubs#eldoret)
 * [Kisumu](https://github.com/ItsMurumba/tech-hubs#kisumu)
 * [Machakos](https://github.com/ItsMurumba/tech-hubs#machakos)
 * [Mombasa](https://github.com/ItsMurumba/tech-hubs#mombasa)
 * [Nairobi](https://github.com/ItsMurumba/tech-hubs#nairobi)
+* [Nakuru](https://github.com/ItsMurumba/tech-hubs#nakuru)
 * [Nyeri](https://github.com/ItsMurumba/tech-hubs#nyeri)
 
 # Bungoma
@@ -36,6 +38,10 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Nairobi Garage Kilimani](https://nairobigarage.com/office-space-in-kilimani/): +254 790 556 955 Pinetree Plaza, Nairobi
 * [Nairobi Garage Westlands](https://nairobigarage.com/office-in-westlands/): +254 708 556 955 The Mirage Towers, Nairobi
 * [Nairobi Garage Spring Valley](https://nairobigarage.com/office-space-in-spring-valley/): +254 708 556 955 19 General Mathenge Rd, Nairobi
+
+# Nakuru
+
+
 
 
 
