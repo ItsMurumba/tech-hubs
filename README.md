@@ -5,6 +5,7 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 * [Bungoma](https://github.com/ItsMurumba/tech-hubs#bungoma)
 * [Eldoret](https://github.com/ItsMurumba/tech-hubs#eldoret)
+* [Kisii](https://github.com/ItsMurumba/tech-hubs#kisii)
 * [Kisumu](https://github.com/ItsMurumba/tech-hubs#kisumu)
 * [Machakos](https://github.com/ItsMurumba/tech-hubs#machakos)
 * [Mombasa](https://github.com/ItsMurumba/tech-hubs#mombasa)
@@ -17,6 +18,7 @@ Need to know where technology hubs are based in Kenya? Have a look.
 # Eldoret
 * [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
+# Kisii
 
 # Kisumu
 * [LakeHub](https://lakehub.co.ke/): +254 774 440 004 Okore Rd, Kisumu
