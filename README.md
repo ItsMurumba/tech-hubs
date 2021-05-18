@@ -26,6 +26,8 @@ Need to know where technology hubs are based in Kenya? Have a look.
 # Kisumu
 * [LakeHub](https://lakehub.co.ke/): +254 774 440 004 Okore Rd, Kisumu
 
+# Kitale
+
 # Machakos
 * [Ubunifu](http://www.ubunifuhubs.net/) +254 732 258 569 Machakos Makueni Road, Machakos, 90100
 
