@@ -18,6 +18,7 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Nyeri](https://github.com/ItsMurumba/tech-hubs#nyeri)
 
 # Bungoma
+* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Eldoret
 * [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
@@ -35,8 +36,10 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [LakeHub](https://lakehub.co.ke/): +254 774 440 004 Okore Rd, Kisumu
 
 # Kitale
+* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Laikipia
+* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Machakos
 * [Ubunifu](http://www.ubunifuhubs.net/) +254 732 258 569 Machakos Makueni Road, Machakos, 90100
@@ -57,7 +60,7 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Nairobi Garage Spring Valley](https://nairobigarage.com/office-space-in-spring-valley/): +254 708 556 955 19 General Mathenge Rd, Nairobi
 
 # Nakuru
-
+* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 
 
