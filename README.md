@@ -18,13 +18,13 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Nyeri](https://github.com/ItsMurumba/tech-hubs#nyeri)
 
 # Bungoma
-* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
+* [Bungoma](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Eldoret
 * [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Kakamega
-* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
+* [Kakamega](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Karatina
 * [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
