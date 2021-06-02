@@ -27,10 +27,10 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Kakamega](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Karatina
-* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
+* [Karatina](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Kisii
-* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
+* [Kisii](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Kisumu
 * [LakeHub](https://lakehub.co.ke/): +254 774 440 004 Okore Rd, Kisumu
