@@ -60,7 +60,7 @@ Need to know where technology hubs are based in Kenya? Have a look.
 * [Nairobi Garage Spring Valley](https://nairobigarage.com/office-space-in-spring-valley/): +254 708 556 955 19 General Mathenge Rd, Nairobi
 
 # Nakuru
-* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
+* [Nakuru](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 
 
