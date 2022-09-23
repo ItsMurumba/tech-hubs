@@ -22,6 +22,7 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 # Eldoret
 * [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
+* [Kikao 64](https://kikao64.ke/): +254 706 767 063 Kenyatta street, Eldoret
 
 # Kakamega
 * [Kakamega](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
