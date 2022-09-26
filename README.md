@@ -55,10 +55,15 @@ Need to know where technology hubs are based in Kenya? Have a look.
 # Nairobi
 * [iHub](https://ihub.co.ke/): +254 798 985 410 6th Floor Senteu Plaza, Galana/Lenana Road
 * [NaiLab](https://nailab.co/):  +254 790 492 467 4th Floor, Bishop Magua Centre, Nairobi
-* [Nairobi Garage Karen](https://nairobigarage.com/office-space-in-karen/):  +254 755 556 955 Cove Court Watermark Business Park, Nairobi
-* [Nairobi Garage Kilimani](https://nairobigarage.com/office-space-in-kilimani/): +254 790 556 955 Pinetree Plaza, Nairobi
-* [Nairobi Garage Westlands](https://nairobigarage.com/office-in-westlands/): +254 708 556 955 The Mirage Towers, Nairobi
-* [Nairobi Garage Spring Valley](https://nairobigarage.com/office-space-in-spring-valley/): +254 708 556 955 19 General Mathenge Rd, Nairobi
+* [Nairobi Garage Karen](https://nairobigarage.com/office-space-in-karen/):  +254755556955 Cove Court Watermark Business Park, Nairobi
+* [Nairobi Garage Kilimani](https://nairobigarage.com/office-space-in-kilimani/): +254790556955 Pinetree Plaza, Nairobi
+* [Nairobi Garage Westlands](https://nairobigarage.com/office-in-westlands/): +254708556955 The Mirage Towers, Nairobi
+* [Nairobi Garage Spring Valley](https://nairobigarage.com/office-space-in-spring-valley/): +254708556955 19 General Mathenge Rd, Nairobi
+* [Ikigai, Lavington](https://ikigai.co.ke/lavington/): +254768376408 90 JGO, James Gichuru Road
+* [Ikigai, Westlands](https://ikigai.co.ke/westlands/): +254797519466 Peponi Road
+* [Ikigai, Lower Kabete](https://ikigai.co.ke/lower-kabete/): +254757892566 107 Lower Kabete Road
+* [Ikigai, Riverside](https://ikigai.co.ke/riverside/): +254748602731 Riverside Drive
+
 
 # Nakuru
 * [Nakuru](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
