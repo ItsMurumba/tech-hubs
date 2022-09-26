@@ -1,4 +1,4 @@
-# Technology Hubs && Co-Working Spaces
+# Technology Hubs & Co-Working Spaces
 Need to know where technology hubs are based in Kenya? Have a look.
 
 # Quick Links
