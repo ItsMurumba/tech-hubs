@@ -35,6 +35,7 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 # Kisumu
 * [LakeHub](https://lakehub.co.ke/): +254 774 440 004 Okore Rd, Kisumu
+* [Chako Workplace](https://chakoworkplace.com/): +254702796478 Plansmart Building 2nd Floor Oginga Odinga Street, near Swan Center Kisumu.
 
 # Kitale
 * [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
