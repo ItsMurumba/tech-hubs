@@ -68,7 +68,7 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 
 # Nakuru
-* [Nakuru](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
+* [Nakuru Box](https://www.nakurubox.co.ke/): +254794829081 D&D House, West Road, Nakuru, 6th floor & 2nd Floor
 
 
 
