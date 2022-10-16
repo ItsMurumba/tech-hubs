@@ -3,49 +3,27 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 # Quick Links
 
-* [Bungoma](https://github.com/ItsMurumba/tech-hubs#bungoma)
 * [Eldoret](https://github.com/ItsMurumba/tech-hubs#eldoret)
-* [Kakamega](https://github.com/ItsMurumba/tech-hubs#kakamega)
-* [Karatina](https://github.com/ItsMurumba/tech-hubs#karatina)
-* [Kisii](https://github.com/ItsMurumba/tech-hubs#kisii)
 * [Kisumu](https://github.com/ItsMurumba/tech-hubs#kisumu)
-* [Kitale](https://github.com/ItsMurumba/tech-hubs#kitale)
-* [Laikipia](https://github.com/ItsMurumba/tech-hubs#laikipia)
 * [Machakos](https://github.com/ItsMurumba/tech-hubs#machakos)
 * [Mombasa](https://github.com/ItsMurumba/tech-hubs#mombasa)
 * [Nairobi](https://github.com/ItsMurumba/tech-hubs#nairobi)
 * [Nakuru](https://github.com/ItsMurumba/tech-hubs#nakuru)
 * [Nyeri](https://github.com/ItsMurumba/tech-hubs#nyeri)
 
-# Bungoma
-* [Bungoma](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Eldoret
 * [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 * [Kikao 64](https://kikao64.ke/): +254 706 767 063 Kenyatta street, Eldoret
 
-# Kakamega
-* [Kakamega](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
-
-# Karatina
-* [Karatina](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
-
-# Kisii
-* [Kisii](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Kisumu
 * [LakeHub](https://lakehub.co.ke/): +254 774 440 004 Okore Rd, Kisumu
 * [Chako Workplace](https://chakoworkplace.com/): +254702796478 Plansmart Building 2nd Floor Oginga Odinga Street, near Swan Center Kisumu.
 
-# Kitale
-* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
-
-# Laikipia
-* [EldoHub](https://www.eldohub.co.ke/): +254  780 223 220 Kiptagich Plaza 6th floor
 
 # Machakos
 * [Ubunifu](http://www.ubunifuhubs.net/) +254 732 258 569 Machakos Makueni Road, Machakos, 90100
-
 
 
 # Mombasa
@@ -69,8 +47,6 @@ Need to know where technology hubs are based in Kenya? Have a look.
 
 # Nakuru
 * [Nakuru Box](https://www.nakurubox.co.ke/): +254794829081 D&D House, West Road, Nakuru, 6th floor & 2nd Floor
-
-
 
 
 # Nyeri
