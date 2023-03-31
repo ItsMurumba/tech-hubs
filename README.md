@@ -29,6 +29,7 @@ Need to know where technology hubs are based in Kenya? Have a look. This is a co
 # Mombasa
 * [Swahili Pot](https://swahilipothub.co.ke/): +254 760 001 111 Swahili Cultural Center
 * [Mombasa Works](https://www.mombasaworks.com/): +254799484116 Oriental Building Nkurumah road
+* [Sote Hub](https://sotehub.com/): +254799817560 Bella Rosa House,Moyne Drive,Nyali.
 
 
 
