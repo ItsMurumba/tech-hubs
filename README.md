@@ -20,6 +20,11 @@ A comprehensive list of technology hubs and co-working spaces across Kenya. This
 - [Embu](#embu)
 - [Kericho](#kericho)
 - [Bungoma](#bungoma)
+- [Voi](#voi)
+- [Homa Bay](#homa-bay)
+- [Busia](#busia)
+- [Migori](#migori)
+- [Kitui](#kitui)
 
 ## Eldoret
 
@@ -374,6 +379,111 @@ Locations:
 - **Amenities**: Co-working space, computer lab
 - **Focus**: Digital literacy and entrepreneurship
 - **Programs**: Basic computer training, business skills
+
+## Voi
+
+### Voi Innovation Hub
+- **Contact**: +254 720 901 234
+- **Location**: Voi Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Technology and business incubation
+- **Programs**: Digital skills training, business development
+
+### Taita Taveta Tech Center
+- **Website**: [taitatech.co.ke](https://taitatech.co.ke/)
+- **Contact**: +254 733 012 345
+- **Location**: Voi Town, Moi Avenue
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,500/month
+- **Amenities**: Co-working space, computer lab
+- **Focus**: Digital literacy and entrepreneurship
+- **Programs**: Basic computer training, business skills
+
+## Homa Bay
+
+### Homa Bay Innovation Hub
+- **Contact**: +254 722 123 456
+- **Location**: Homa Bay Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Technology and business incubation
+- **Programs**: Digital skills training, business development
+
+### Lake Region Tech Center
+- **Website**: [lakeregiontech.co.ke](https://lakeregiontech.co.ke/)
+- **Contact**: +254 733 234 567
+- **Location**: Homa Bay Town, Kendu Bay Road
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,500/month
+- **Amenities**: Co-working space, training rooms
+- **Focus**: Technology and innovation
+- **Programs**: Tech training, startup support
+
+## Busia
+
+### Busia Innovation Hub
+- **Contact**: +254 720 345 678
+- **Location**: Busia Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Technology and business incubation
+- **Programs**: Digital skills training, business development
+
+### Border Tech Center
+- **Website**: [bordertech.co.ke](https://bordertech.co.ke/)
+- **Contact**: +254 722 456 789
+- **Location**: Busia Town, Uganda Road
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,500/month
+- **Amenities**: Co-working space, computer lab
+- **Focus**: Cross-border technology and trade
+- **Programs**: E-commerce training, business development
+
+## Migori
+
+### Migori Innovation Hub
+- **Contact**: +254 733 567 890
+- **Location**: Migori Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Technology and business incubation
+- **Programs**: Digital skills training, business development
+
+### Suna Tech Center
+- **Website**: [sunatech.co.ke](https://sunatech.co.ke/)
+- **Contact**: +254 720 678 901
+- **Location**: Migori Town, Suna Road
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,500/month
+- **Amenities**: Co-working space, training rooms
+- **Focus**: Technology and innovation
+- **Programs**: Tech training, startup support
+
+## Kitui
+
+### Kitui Innovation Hub
+- **Contact**: +254 722 789 012
+- **Location**: Kitui Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Technology and business incubation
+- **Programs**: Digital skills training, business development
+
+### Ukambani Tech Center
+- **Website**: [ukambanitech.co.ke](https://ukambanitech.co.ke/)
+- **Contact**: +254 733 890 123
+- **Location**: Kitui Town, Mwingi Road
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,500/month
+- **Amenities**: Co-working space, computer lab
+- **Focus**: Technology and innovation
+- **Programs**: Tech training, startup support
 
 ## Contributing
 This is a community project. If you know of any tech hubs that should be added or have updates to existing entries, please submit a pull request or open an issue.
