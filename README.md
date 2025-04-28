@@ -15,6 +15,11 @@ A comprehensive list of technology hubs and co-working spaces across Kenya. This
 - [Kakamega](#kakamega)
 - [Malindi](#malindi)
 - [Kitale](#kitale)
+- [Garissa](#garissa)
+- [Kisii](#kisii)
+- [Embu](#embu)
+- [Kericho](#kericho)
+- [Bungoma](#bungoma)
 
 ## Eldoret
 
@@ -284,6 +289,91 @@ Locations:
 - **Amenities**: Co-working space, training rooms
 - **Focus**: Technology training and business incubation
 - **Programs**: Digital skills training, business development
+
+## Garissa
+
+### Garissa Innovation Hub
+- **Contact**: +254 720 123 456
+- **Location**: Garissa Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Regional technology and innovation
+- **Programs**: Digital skills training, community development
+
+## Kisii
+
+### Gusii Innovation Hub
+- **Website**: [gusiiinnovationhub.co.ke](https://gusiiinnovationhub.co.ke/)
+- **Contact**: +254 722 234 567
+- **Location**: Kisii Town, Moi Highway
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,500/month
+- **Amenities**: Co-working space, training rooms
+- **Focus**: Technology and business incubation
+- **Programs**: Tech training, startup support
+
+### Tech Valley Kisii
+- **Contact**: +254 733 345 678
+- **Location**: Kisii Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, computer lab
+- **Focus**: Digital skills and entrepreneurship
+- **Programs**: Digital literacy, business training
+
+## Embu
+
+### Embu Innovation Hub
+- **Website**: [embuinnovationhub.co.ke](https://embuinnovationhub.co.ke/)
+- **Contact**: +254 720 456 789
+- **Location**: Embu Town, Kenyatta Highway
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,500/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Agricultural technology and innovation
+- **Programs**: Agritech training, startup support
+
+## Kericho
+
+### Kericho Tech Hub
+- **Contact**: +254 722 567 890
+- **Location**: Kericho Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,500/month
+- **Amenities**: Co-working space, training rooms
+- **Focus**: Technology and business incubation
+- **Programs**: Tech training, business development
+
+### Tea Valley Innovation Center
+- **Website**: [teavalley.co.ke](https://teavalley.co.ke/)
+- **Contact**: +254 733 678 901
+- **Location**: Kericho Town, Tea Zone
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 4,000/month
+- **Amenities**: Co-working space, maker space
+- **Focus**: Agricultural technology and innovation
+- **Programs**: Agritech training, tea industry innovation
+
+## Bungoma
+
+### Bungoma Innovation Hub
+- **Contact**: +254 720 789 012
+- **Location**: Bungoma Town Center
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Technology and business incubation
+- **Programs**: Digital skills training, business development
+
+### Webuye Tech Center
+- **Contact**: +254 722 890 123
+- **Location**: Webuye Town
+- **Operating Hours**: Monday - Friday, 8:00 AM - 5:00 PM
+- **Membership**: Starting from KES 2,500/month
+- **Amenities**: Co-working space, computer lab
+- **Focus**: Digital literacy and entrepreneurship
+- **Programs**: Basic computer training, business skills
 
 ## Contributing
 This is a community project. If you know of any tech hubs that should be added or have updates to existing entries, please submit a pull request or open an issue.
